@@ -15,6 +15,20 @@ logs/
 *.log
 npm-debug.log*
 
+# Coverage y tests
+coverage/
+.nyc_output/
+
+# Build / dist
+dist/
+build/
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
 # Sistema operativo
 .DS_Store
 Thumbs.db
